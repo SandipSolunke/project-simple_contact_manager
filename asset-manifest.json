@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/project-simple_contact_manager/static/js/main.b50cd400.js",
+    "static/media/avtar.png": "/project-simple_contact_manager/static/media/avtar.d7f0e99a072186ca4adc.png",
+    "index.html": "/project-simple_contact_manager/index.html",
+    "main.b50cd400.js.map": "/project-simple_contact_manager/static/js/main.b50cd400.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b50cd400.js"
+  ]
+}
